@@ -1,6 +1,0 @@
-service:
-name : java
-
-runtime: java
-env: flex
-
