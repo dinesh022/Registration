@@ -1,4 +1,6 @@
-- service:
-    name : java
+service:
+name : java
 
+runtime: java
+env: flex
 
